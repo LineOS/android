@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Xiaomi redmi 3(ido) additions -->
+  <project path="device/xiaomi/ido" name="LineOS/android_device_xiaomi_ido" remote="lineos" />
+  <project path="kernel/xiaomi/msm8916" name="LineOS/android_kernel_xiaomi_msm8916" remote="lineos" />   
+  <project path="vendor/xiaomi" name="LineOS/proprietary_vendor_xiaomi" remote="lineos" />
+ 
+  <!-- lineage dependencies -->  
+  <project path="external/sony/boringssl-compat" name="LineOS/android_external_sony_boringssl-compat" remote="lineos" />
+  <project path="external/stlport" name="LineOS/android_external_stlport" remote="lineos" />
+  <project path="packages/resources/devicesettings" name="LineOS/android_packages_resources_devicesettings" remote="lineos" />
+</manifest>
