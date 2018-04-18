@@ -82,8 +82,8 @@
   <project path="system/core" name="crdroidandroid/android_system_core" remote="crdroid" />
   <project path="system/sepolicy" name="crdroidandroid/android_system_sepolicy" remote="crdroid" />
 
-  <project path="vendor/addons" name="crdroidandroid/android_vendor_addons" remote="crdroid" />
-  <project path="vendor/crDroidOTA" name="crdroidandroid/android_vendor_crDroidOTA" remote="crdroid" />
+  <!--<project path="vendor/addons" name="crdroidandroid/android_vendor_addons" remote="crdroid" />-->
+  <!--<project path="vendor/crDroidOTA" name="crdroidandroid/android_vendor_crDroidOTA" remote="crdroid" />-->
   <!--<project path="vendor/lineage" name="crdroidandroid/android_vendor_crdroid" remote="crdroid" />-->
   
   <!-- LineOS additions -->
@@ -110,5 +110,6 @@
   <project path="packages/providers/PhoneLocationProvider" name="LineOS/android_packages_provider_PhoneLocationProvider" remote="lineos" />
   <project path="packages/providers/ContactsProvider" name="LineOS/android_packages_providers_ContactsProvider" groups="pdk-cw-fs,pdk-fs" remote="lineos" />
   <project path="packages/services/Telecomm" name="LineOS/android_packages_services_Telecomm" remote="lineos" />
+  <project path="vendor/addons" name="LineOS/android_vendor_addons" remote="lineos" />
   <project path="vendor/lineage" name="LineOS/android_vendor_crdroid" remote="lineos" />
 </manifest>
