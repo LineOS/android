@@ -37,7 +37,7 @@ and their change histories.
 
 ```bash
 # Let Repo take care of all the hard work
-$ repo sync
+$ repo sync -c -f -j8 --force-sync --no-clone-bundle --no-tags
 ```
 
 ```bash
