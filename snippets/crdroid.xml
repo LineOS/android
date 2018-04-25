@@ -54,9 +54,9 @@
   <!--<project path="packages/apps/crDroidFileManager" name="crdroidandroid/android_packages_apps_crDroidFileManager" remote="crdroid" />-->
   <!--<project path="packages/apps/crDroidHome" name="crdroidandroid/android_packages_apps_crDroidHome" remote="crdroid" />-->
   <!--<project path="packages/apps/crDroidMusic" name="crdroidandroid/android_packages_apps_crDroidMusic" remote="crdroid" />-->
-  <project path="packages/apps/crDroidHome2" name="crdroidandroid/android_packages_apps_crDroidHome2" remote="crdroid" />
+  <!--<project path="packages/apps/crDroidHome2" name="crdroidandroid/android_packages_apps_crDroidHome2" remote="crdroid" />-->
   <project path="packages/apps/crDroidSettings" name="crdroidandroid/android_packages_apps_crDroidSettings" remote="crdroid" />
-  <project path="packages/apps/crDroidWallpapers" name="crdroidandroid/android_packages_apps_crDroidWallpapers" remote="crdroid" />
+  <!--<project path="packages/apps/crDroidWallpapers" name="crdroidandroid/android_packages_apps_crDroidWallpapers" remote="crdroid" />-->
   <project path="packages/apps/DocumentsUI" name="crdroidandroid/android_packages_apps_DocumentsUI" remote="crdroid" />
   <project path="packages/apps/DUI" name="crdroidandroid/android_packages_apps_DUI" remote="crdroid" />
   <project path="packages/apps/LineageParts" name="crdroidandroid/android_packages_apps_LineageParts" remote="crdroid" />
@@ -104,7 +104,7 @@
   <project path="hardware/qcom/audio-caf/msm8916" name="LineOS/hardware_qcom_audio" groups="qcom,qcom_audio,pdk" remote="lineos" />
   <project path="hardware/qcom/display-caf/msm8916" name="LineOS/hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="lineos" />
   <project path="hardware/qcom/media-caf/msm8916" name="LineOS/hardware_qcom_media" groups="qcom,pdk" remote="lineos" />
-  <project path="packages/apps/Calendar" name="LineOS/android_packages_apps_Calendar" groups="pdk-fs" remote="lineos" />
+  <!--<project path="packages/apps/Calendar" name="LineOS/android_packages_apps_Calendar" groups="pdk-fs" remote="lineos" />-->
   <project path="packages/apps/Contacts" name="LineOS/android_packages_apps_Contacts" groups="pdk-fs" remote="lineos" />
   <project path="packages/apps/Dialer" name="LineOS/android_packages_apps_Dialer" groups="pdk-fs" remote="lineos" />
   <project path="packages/apps/Messaging" name="LineOS/android_packages_apps_Messaging" groups="pdk-fs" remote="lineos" />
