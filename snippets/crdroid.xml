@@ -57,7 +57,7 @@
   <project path="packages/apps/crDroidHome2" name="crdroidandroid/android_packages_apps_crDroidHome2" remote="crdroid" />
   <project path="packages/apps/crDroidSettings" name="crdroidandroid/android_packages_apps_crDroidSettings" remote="crdroid" />
   <!--<project path="packages/apps/crDroidWallpapers" name="crdroidandroid/android_packages_apps_crDroidWallpapers" remote="crdroid" />-->
-  <project path="packages/apps/DocumentsUI" name="crdroidandroid/android_packages_apps_DocumentsUI" remote="crdroid" />
+  <!--<project path="packages/apps/DocumentsUI" name="crdroidandroid/android_packages_apps_DocumentsUI" remote="crdroid" />-->
   <project path="packages/apps/DUI" name="crdroidandroid/android_packages_apps_DUI" remote="crdroid" />
   <project path="packages/apps/LineageParts" name="crdroidandroid/android_packages_apps_LineageParts" remote="crdroid" />
   <project path="packages/apps/OmniStyle" name="crdroidandroid/android_packages_apps_OmniStyle" remote="crdroid" />
@@ -72,7 +72,7 @@
   <project path="packages/providers/BlockedNumberProvider" name="crdroidandroid/android_packages_providers_BlockedNumberProvider" remote="crdroid" />
   <project path="packages/providers/DownloadProvider" name="crdroidandroid/android_packages_providers_DownloadProvider" remote="crdroid" />
   <project path="packages/providers/MediaProvider" name="crdroidandroid/android_packages_providers_MediaProvider" remote="crdroid" />
-  <!--<project path="packages/services/OmniJaws" name="crdroidandroid/android_packages_services_OmniJaws" remote="crdroid" />-->
+  <project path="packages/services/OmniJaws" name="crdroidandroid/android_packages_services_OmniJaws" remote="crdroid" />
   <!--<project path="packages/services/Telecomm" name="crdroidandroid/android_packages_services_Telecomm" remote="crdroid" />-->
   <project path="packages/services/Telephony" name="crdroidandroid/android_packages_services_Telephony" remote="crdroid" />
 
